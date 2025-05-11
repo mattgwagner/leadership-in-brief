@@ -21,7 +21,7 @@ mdc: true
 # open graph
 # seoMeta:
 #  ogImage: https://cover.sli.dev
-layout: cover
+layout: center
 ---
 
 # Leadership in Brief
@@ -39,10 +39,10 @@ layout: quote
 > <span style="font-size:1.0em;">— Army Leadership Doctrine</span>
 
 ---
-layout: cover
+layout: center
 ---
 
-# Why talk about leadership?
+<span style="font-size:3.5em;">Why talk about leadership?</span>
 
 ---
 
@@ -61,25 +61,34 @@ Captain, Florida Army National Guard
 
 ---
 
-# Setting Expectations: The Power of Counseling
+# Setting Expectations: The Impact of Counseling
 
-Leadership is often made or broken by how well expectations are set from the start. In the Army, this is formalized through counseling sessions—especially the initial counseling.
+> Effective leadership largely hinges on the ability to set clear expectations from the outset. In the Army, this process is formally established through counseling sessions, particularly during the initial counseling.
 
-- **Initial counseling** is where leaders and subordinates discuss roles, standards, and what success looks like.
-- It's not just a checklist—done well, it's a conversation that builds trust, clarifies priorities, and opens the door for honest feedback.
-- Clear expectations help prevent confusion, frustration, and underperformance down the road.
+- Initial counseling serves as a platform for leaders and subordinates to engage in discussions about roles, standards, and what achievement looks like.
+- This process goes beyond mere checklist completion—when done effectively, it fosters a dialogue that builds trust, clarifies priorities, and encourages open and honest feedback.
+- By establishing clear expectations, we can mitigate confusion, frustration, and the risk of underperformance in the future.
+
+---
+
+# Setting Expectations: The Impact of Counseling
 
 > "One of the greatest tools in a leader's kit bag is one-on-one counseling... When we don't provide subordinates with feedback, their professional growth is left up to chance."  
 > — [From the Green Notebook](https://fromthegreennotebook.com/2019/05/23/turning-counseling-into-a-conversation/)
 
-- The best counseling sessions are two-way conversations, not lectures. They invite reflection, feedback, and shared ownership of growth.
+*The best counseling sessions are two-way conversations, not lectures. They invite reflection, feedback, and shared ownership of growth.*
 
 ---
 
 # My Initial Counseling Template
 
-*I use an initial counseling template to set expectations with anyone who works for me—based on my experience, it covers what I believe is most important for success. This approach is useful not just in the Army, but for any manager or leader in the civilian world. It helps ensure everyone knows what matters, how to succeed, and how we'll work together.*
-
+- Utilize an initial counseling template to establish clear expectations with all team members.
+- Based on personal experience, the template covers crucial elements for success.
+- This approach is effective not only in the Army but also applicable to civilian management and leadership roles.
+- Ensures clarity on:
+  - What matters most for the team.
+  - The criteria for success.
+  - The collaborative working relationship and expectations.
 ---
 
 # Duties & Responsibilities
