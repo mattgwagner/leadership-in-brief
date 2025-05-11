@@ -175,7 +175,11 @@ by Robert A. Heinlein
 
 > "The Lieutenant was father to us and loved us and spoiled us and was nevertheless rather remote from us aboard ship - and even dirtside . . . unless we reached dirt via a drop."
 
-<img src="/startship-troopers.jpg" alt="Starship Troopers cover" width="200" />
+<br />
+
+> "The one thing - the only thing! - that can strike terror in the heart of a good platoon sergeant is to find that he's working for a boss who can't make up his mind."
+
+<img src="/startship-troopers.jpg" alt="Starship Troopers cover" width="120" />
 
 ---
 layout: two-cols
