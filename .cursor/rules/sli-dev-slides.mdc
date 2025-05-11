@@ -3,11 +3,10 @@ description:
 globs: 
 alwaysApply: true
 ---
-@ -1,34 +0,0 @@
 # Sli.dev Slides Rule
 
 ## Rule Description
-This rule ensures that all Sli.dev slides created or edited in this project adhere to the official syntax and project structure as documented at [https://sli.dev/guide/syntax](https://sli.dev/guide/syntax). Slides must be concise and coherent.
+This rule ensures that all Sli.dev slides created or edited in this project adhere to the official syntax and project structure as documented at [https://sli.dev/guide/syntax](mdc:https:/sli.dev/guide/syntax). Slides must be concise and coherent.
 
 ## Rule Details
 - **Category**: Content Quality & Consistency
@@ -16,7 +15,7 @@ This rule ensures that all Sli.dev slides created or edited in this project adhe
 
 ## Requirements
 1. **Reference Official Documentation**
-   - All slide syntax and project structure decisions must be based on the official Sli.dev documentation: [https://sli.dev/guide/syntax](https://sli.dev/guide/syntax).
+   - All slide syntax and project structure decisions must be based on the official Sli.dev documentation: [https://sli.dev/guide/syntax](mdc:https:/sli.dev/guide/syntax).
    - When in doubt about syntax or structure, consult the documentation.
 2. **Conciseness**
    - Slides should communicate ideas clearly and succinctly.
@@ -37,4 +36,5 @@ This rule ensures that all Sli.dev slides created or edited in this project adhe
 - Any deviation should be corrected by referencing the official guide.
 
 ## References
-- [Sli.dev Syntax Guide](https://sli.dev/guide/syntax) 
+
+- [Sli.dev Syntax Guide](mdc:https:/sli.dev/guide/syntax) 
