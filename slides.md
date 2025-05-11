@@ -155,7 +155,7 @@ Published by the National Defense University Press
 
 > "These sons and daughters are placed in the care and direction of commissioned leaders in trust that their units will enter battle as prepared as humanly possible and that they will be employed in the wisest manner to achieve the nation's purposes at least cost in blood and treasure. Development of the necessary knowledge and skills to live up to this trust requires a lifetime of individual study, training, and long practice by every officer."
 
-<img src="/public/armed-forces-officer.jpg" width="100" />
+<img src="/armed-forces-officer.jpg" width="100" />
 
 ---
 layout: two-cols
@@ -175,7 +175,7 @@ by Robert A. Heinlein
 
 > "The Lieutenant was father to us and loved us and spoiled us and was nevertheless rather remote from us aboard ship - and even dirtside . . . unless we reached dirt via a drop."
 
-<img src="/public/startship-troopers.jpg" alt="Starship Troopers cover" width="200" />
+<img src="/startship-troopers.jpg" alt="Starship Troopers cover" width="200" />
 
 ---
 
