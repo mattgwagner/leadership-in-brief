@@ -150,13 +150,6 @@ Captain, Florida Army National Guard
 
 ---
 
-# Be Proud, But Never Satisfied
-
-- Make yourself, the unit, and everyone around you better with your skills and passion.
-- Strive for continuous improvement—**BE PROUD, BUT NEVER SATISFIED.**
-
----
-
 # Army Values & Expectations
 
 - The seven Army Values are the bedrock for our service: **Loyalty, Duty, Respect, Selfless Service, Honor, Integrity, and Personal Courage**.
