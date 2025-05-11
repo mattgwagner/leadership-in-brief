@@ -205,21 +205,22 @@ by Orson Scott Card
 layout: two-cols
 ---
 
-<img src="/once-an-eagle.webp" alt="Once an Eagle cover" width="200" />
+<img src="/once-an-eagle.webp" alt="Once an Eagle cover" width="100" />
 
 **Once an Eagle**  
 by Anton Myrer
 
 **Why it matters for leadership:**
 - Follows the long arc of a soldier's development, from youth through a lifetime of service and command.
-- Explores the moral and ethical challenges of leadership in peace and war.
-- Highlights the importance of character, resilience, and readiness in those who lead.
 
 ::right::
 
 **Quote**
 
 > "The surprise attack on the unready nation will be the hallmark of the next war. And if there aren't men of your caliber ready and able to take charge of things when that day comes, it will go very hard with us. Very hard indeed."
+
+- Explores the moral and ethical challenges of leadership in peace and war.
+- Highlights the importance of character, resilience, and readiness in those who lead.
 
 ---
 
