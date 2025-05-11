@@ -178,6 +178,26 @@ by Robert A. Heinlein
 <img src="/startship-troopers.jpg" alt="Starship Troopers cover" width="200" />
 
 ---
+layout: two-cols
+---
+
+<img src="/enders-game.jpg" alt="Ender's Game cover" width="200" />
+
+**Ender's Game**  
+by Orson Scott Card
+
+**Why it matters for leadership:**
+- Offers deep insight into tactics and strategy, especially in the context of multi-dimensional warfare.
+- Explores the psychological and ethical challenges of command and leadership under extreme pressure.
+- Highlights the importance of adaptability, creative problem-solving, and understanding your team.
+
+::right::
+
+**Insight**
+
+> "[Add your favorite quote or insight from Ender's Game here.]"
+
+---
 
 # Q&A / Discussion
 
