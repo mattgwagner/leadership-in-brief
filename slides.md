@@ -158,6 +158,27 @@ Published by the National Defense University Press
 
 ---
 
+layout: two-cols
+# Book Recommendation: Starship Troopers
+
+# Left
+
+**Starship Troopers**  
+by Robert A. Heinlein
+
+**Why it matters for leadership:**
+- Chronicles the full evolution of a soldier, from considering service, through basic training, combat, and into Officer Candidate School (OCS).
+- Explores themes of duty, citizenship, sacrifice, and the responsibilities of leadership.
+- Offers a unique perspective on what it means to serve and to lead, both in and out of combat.
+
+::right::
+
+**Quote**
+
+> "The Lieutenant was father to us and loved us and spoiled us and was nevertheless rather remote from us aboard ship - and even dirtside . . . unless we reached dirt via a drop."
+
+---
+
 # Q&A / Discussion
 
 - Questions?
