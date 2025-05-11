@@ -150,7 +150,7 @@ Published by the National Defense University Press
 
 ::right::
 
-# Quotes
+**Quotes**
 
 > "As the nation's trusted professionals trained in the art and application of war, we are held to a higher standard—we are required to embody the values we have taken an oath to defend."
 
