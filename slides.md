@@ -79,7 +79,55 @@ Leadership is often made or broken by how well expectations are set from the sta
 - The best counseling sessions are two-way conversations, not lectures. They invite reflection, feedback, and shared ownership of growth.
 
 ---
+# Army Values & Expectations
 
+- The seven Army Values are the bedrock for our service: Loyalty, Duty, Respect, Selfless Service, Honor, Integrity, and Personal Courage.
+- Ethical behavior and moral conduct on and off duty must be above reproach.
+- Leaders set and maintain the ethical and moral climate—challenge yourself and your team to live these values.
+
+---
+# Appearance, Uniform, and Bearing
+
+- Maintain your uniform in accordance with AR 670-1; wear it with pride.
+- Abide by Army grooming standards and local policies.
+- Your appearance and bearing reflect on the Army—set the example for others.
+
+---
+# Communication & Accountability
+
+- Be present and on time—at least 10 minutes prior to all formations.
+- Keep your leader informed of your whereabouts and any issues.
+- Use all available means (calls, texts, email) to communicate; respond promptly.
+
+---
+# Job Performance & Professional Growth
+
+- You will receive regular counseling on strengths and areas for improvement.
+- Strive for excellence, but honest mistakes are learning opportunities.
+- Set short- and long-term goals; take initiative in your own development.
+
+---
+# Physical Fitness & Readiness
+
+- Meet or exceed Army fitness standards; fitness is foundational to Soldiering.
+- Be prepared for APFT and maintain readiness for all missions.
+- Motivate and support your peers in training and preparation.
+
+---
+# Responsibility & Property Accountability
+
+- Accept responsibility for your actions and assigned property.
+- Use proper care and maintenance of equipment and supplies.
+- Ensure a safe and healthy work environment for all.
+
+---
+# Leader Responsibilities
+
+- Your leader will provide training, motivation, and support for your growth.
+- Expect honest feedback and guidance.
+- Leaders are here to help you succeed—use them as a resource.
+
+---
 # What is Leadership?
 
 - Definitions from both worlds
