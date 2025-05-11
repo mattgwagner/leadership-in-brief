@@ -135,9 +135,7 @@ Father. Artilleryman. Software Leader.
 ---
 
 layout: two-cols
-# Book Recommendation: The Armed Forces Officer
-
-# Left
+---
 
 **The Armed Forces Officer**  
 Published by the National Defense University Press  
@@ -157,11 +155,8 @@ Published by the National Defense University Press
 > "These sons and daughters are placed in the care and direction of commissioned leaders in trust that their units will enter battle as prepared as humanly possible and that they will be employed in the wisest manner to achieve the nation's purposes at least cost in blood and treasure. Development of the necessary knowledge and skills to live up to this trust requires a lifetime of individual study, training, and long practice by every officer."
 
 ---
-
 layout: two-cols
-# Book Recommendation: Starship Troopers
-
-# Left
+---
 
 **Starship Troopers**  
 by Robert A. Heinlein
