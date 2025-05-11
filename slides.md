@@ -79,17 +79,20 @@ Leadership is often made or broken by how well expectations are set from the sta
 - The best counseling sessions are two-way conversations, not lectures. They invite reflection, feedback, and shared ownership of growth.
 
 ---
+
 # My Initial Counseling Template
 
 I use an initial counseling template to set expectations with anyone who works for me—based on my experience, it covers what I believe is most important for success. This approach is useful not just in the Army, but for any manager or leader in the civilian world. It helps ensure everyone knows what matters, how to succeed, and how we'll work together.
 
 ---
+
 # Duties & Responsibilities
 
 - "Do what you are told and be where you are supposed to be, when you are supposed to be there, with what you need to accomplish the mission, ready to perform."
 - Mission focus and reliability are non-negotiable.
 
 ---
+
 # Communication
 
 - Be reachable and respond in a timely manner—your feedback and knowledge are essential to the team.
@@ -97,6 +100,7 @@ I use an initial counseling template to set expectations with anyone who works f
 - If personal issues arise, let me know so we can adjust as needed.
 
 ---
+
 # Military Bearing & Professionalism
 
 - Know, understand, and enforce the standard—both Army regulations and local SOPs.
@@ -104,6 +108,7 @@ I use an initial counseling template to set expectations with anyone who works f
 - "A man in authority who lets his subordinates get away with poor performance implies in doing so that they and their actions are of no significance..."
 
 ---
+
 # Unit Esprit & Pride
 
 - Take pride in being an American Soldier and Guardsman.
@@ -111,6 +116,7 @@ I use an initial counseling template to set expectations with anyone who works f
 - Pride in our work and team is essential to success.
 
 ---
+
 # Competence & Preparation
 
 - Leaders must be "jack of all trades"—know your MOS and what your Soldiers can do.
@@ -118,6 +124,7 @@ I use an initial counseling template to set expectations with anyone who works f
 - Employ your team based on their strengths and capabilities.
 
 ---
+
 # Leadership Requirements Model
 
 - **Leads:** Be present and lead by example—"It is difficult if not impossible, to lead from the rear."
@@ -125,6 +132,7 @@ I use an initial counseling template to set expectations with anyone who works f
 - **Achieves:** Mission comes first—results over excuses. Take care of Soldiers, but always accomplish the mission.
 
 ---
+
 # Plan of Action & Leader Responsibilities
 
 - Counseling is ongoing: quarterly, before major events, and as needed for growth.
@@ -133,12 +141,14 @@ I use an initial counseling template to set expectations with anyone who works f
 - "People don't quit companies. They leave managers."
 
 ---
+
 # Be Proud, But Never Satisfied
 
 - Make yourself, the unit, and everyone around you better with your skills and passion.
 - Strive for continuous improvement—"BE PROUD, BUT NEVER SATISFIED."
 
 ---
+
 # Army Values & Expectations
 
 - The seven Army Values are the bedrock for our service: Loyalty, Duty, Respect, Selfless Service, Honor, Integrity, and Personal Courage.
@@ -146,6 +156,7 @@ I use an initial counseling template to set expectations with anyone who works f
 - Leaders set and maintain the ethical and moral climate—challenge yourself and your team to live these values.
 
 ---
+
 # Appearance, Uniform, and Bearing
 
 - Maintain your uniform in accordance with AR 670-1; wear it with pride.
@@ -153,6 +164,7 @@ I use an initial counseling template to set expectations with anyone who works f
 - Your appearance and bearing reflect on the Army—set the example for others.
 
 ---
+
 # Communication & Accountability
 
 - Be present and on time—at least 10 minutes prior to all formations.
@@ -160,6 +172,7 @@ I use an initial counseling template to set expectations with anyone who works f
 - Use all available means (calls, texts, email) to communicate; respond promptly.
 
 ---
+
 # Job Performance & Professional Growth
 
 - You will receive regular counseling on strengths and areas for improvement.
@@ -167,6 +180,7 @@ I use an initial counseling template to set expectations with anyone who works f
 - Set short- and long-term goals; take initiative in your own development.
 
 ---
+
 # Physical Fitness & Readiness
 
 - Meet or exceed Army fitness standards; fitness is foundational to Soldiering.
@@ -174,6 +188,7 @@ I use an initial counseling template to set expectations with anyone who works f
 - Motivate and support your peers in training and preparation.
 
 ---
+
 # Responsibility & Property Accountability
 
 - Accept responsibility for your actions and assigned property.
@@ -181,19 +196,12 @@ I use an initial counseling template to set expectations with anyone who works f
 - Ensure a safe and healthy work environment for all.
 
 ---
+
 # Leader Responsibilities
 
 - Your leader will provide training, motivation, and support for your growth.
 - Expect honest feedback and guidance.
 - Leaders are here to help you succeed—use them as a resource.
-
----
-# What is Leadership?
-
-- Definitions from both worlds
-- Leadership vs. Management
-
-<!-- Add your definitions and distinctions here -->
 
 ---
 
@@ -205,57 +213,16 @@ I use an initial counseling template to set expectations with anyone who works f
 - Empathy
 - Vision
 
-<!-- Expand on each principle with your perspective -->
-
 ---
 
-# Leadership in the US Army: Key Elements
+# Leadership: Key Elements
 
 - Mission First, People Always
 - Chain of Command & Discipline
 - Training, Drills, and SOPs
 - Leading Under Pressure
-
-<!-- Share Army-specific leadership lessons and anecdotes -->
-
----
-
-# Leadership in Tech: Key Elements
-
-- Collaboration & Flat Hierarchies
 - Innovation & Adaptability
 - Psychological Safety & Feedback Culture
-- Leading Through Influence, Not Authority
-
-<!-- Share tech-specific leadership lessons and anecdotes -->
-
----
-
-# Contrasts & Common Ground
-
-- Command vs. Consensus
-- Risk Management: Calculated vs. Experimental
-- Speed of Decision-Making
-- Handling Failure
-
-<!-- Reflect on similarities and differences, with examples -->
-
----
-
-# Stories & Lessons Learned
-
-- Army Anecdote: <!-- Insert story and lesson -->
-- Tech Anecdote: <!-- Insert story and lesson -->
-- What each taught me about leadership
-
----
-
-# Practical Takeaways for Any Leader
-
-- Blending the best of both worlds
-- Actionable advice for the audience
-
-<!-- List your top tips and practical advice -->
 
 ---
 layout: image-right
