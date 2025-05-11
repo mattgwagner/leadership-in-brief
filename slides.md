@@ -38,7 +38,18 @@ Your Credentials
 - My background: US Army Officer & Tech Lead
 - What this talk will cover
 
-<!-- Add your personal intro and context here -->
+---
+
+# About Me
+
+**Matt G. Wagner**  
+Father. Artilleryman. Software Leader.
+
+- 14+ years leading software teams and projects (CTO, Principal Architect, Tech Lead)
+- 14 years as a U.S. Army National Guard Officer (Field Artillery, MOS 13A)
+- Commanded units of 85–110+ Soldiers and led emergency response operations
+- Leadership experience spans Fortune 50, startups, and military missions
+- Passionate about blending military discipline with tech innovation to build resilient, high-performing teams
 
 ---
 
