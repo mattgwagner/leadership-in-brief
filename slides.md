@@ -133,7 +133,6 @@ Father. Artilleryman. Software Leader.
 <!-- Add more quotes or inspirations -->
 
 ---
-
 layout: two-cols
 ---
 
@@ -151,6 +150,8 @@ Published by the National Defense University Press
 **Quotes**
 
 > "As the nation's trusted professionals trained in the art and application of war, we are held to a higher standard—we are required to embody the values we have taken an oath to defend."
+
+<br />
 
 > "These sons and daughters are placed in the care and direction of commissioned leaders in trust that their units will enter battle as prepared as humanly possible and that they will be employed in the wisest manner to achieve the nation's purposes at least cost in blood and treasure. Development of the necessary knowledge and skills to live up to this trust requires a lifetime of individual study, training, and long practice by every officer."
 
