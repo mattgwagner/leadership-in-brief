@@ -71,12 +71,15 @@ Captain, Florida Army National Guard
 
 ---
 
-# Setting Expectations: The Impact of Counseling
+# Setting Expectations: A Leader's Toolbox
 
 > "One of the greatest tools in a leader's kit bag is one-on-one counseling... When we don't provide subordinates with feedback, their professional growth is left up to chance."  
 > — [From the Green Notebook](https://fromthegreennotebook.com/2019/05/23/turning-counseling-into-a-conversation/)
 
-*The best counseling sessions are two-way conversations, not lectures. They invite reflection, feedback, and shared ownership of growth.*
+<br />
+
+<span style="font-size:2em;">*The best counseling sessions are two-way conversations, not lectures. They invite reflection, feedback, and shared ownership of growth.*
+</span>
 
 ---
 
