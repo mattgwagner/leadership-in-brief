@@ -79,6 +79,66 @@ Leadership is often made or broken by how well expectations are set from the sta
 - The best counseling sessions are two-way conversations, not lectures. They invite reflection, feedback, and shared ownership of growth.
 
 ---
+# My Initial Counseling Template
+
+I use an initial counseling template to set expectations with anyone who works for me—based on my experience, it covers what I believe is most important for success. This approach is useful not just in the Army, but for any manager or leader in the civilian world. It helps ensure everyone knows what matters, how to succeed, and how we'll work together.
+
+---
+# Duties & Responsibilities
+
+- "Do what you are told and be where you are supposed to be, when you are supposed to be there, with what you need to accomplish the mission, ready to perform."
+- Mission focus and reliability are non-negotiable.
+
+---
+# Communication
+
+- Be reachable and respond in a timely manner—your feedback and knowledge are essential to the team.
+- Communicate up and down the chain; keep your leader informed before issues escalate.
+- If personal issues arise, let me know so we can adjust as needed.
+
+---
+# Military Bearing & Professionalism
+
+- Know, understand, and enforce the standard—both Army regulations and local SOPs.
+- Be physically and mentally prepared; set the example in appearance and conduct.
+- "A man in authority who lets his subordinates get away with poor performance implies in doing so that they and their actions are of no significance..."
+
+---
+# Unit Esprit & Pride
+
+- Take pride in being an American Soldier and Guardsman.
+- Know the history and significance of our unit and mission.
+- Pride in our work and team is essential to success.
+
+---
+# Competence & Preparation
+
+- Leaders must be "jack of all trades"—know your MOS and what your Soldiers can do.
+- Prepare outside of drill weekends; never stop learning.
+- Employ your team based on their strengths and capabilities.
+
+---
+# Leadership Requirements Model
+
+- **Leads:** Be present and lead by example—"It is difficult if not impossible, to lead from the rear."
+- **Develops:** Develop other leaders; share lessons and nurture future team leaders.
+- **Achieves:** Mission comes first—results over excuses. Take care of Soldiers, but always accomplish the mission.
+
+---
+# Plan of Action & Leader Responsibilities
+
+- Counseling is ongoing: quarterly, before major events, and as needed for growth.
+- You are responsible for maintaining your support form and tracking your progress.
+- Leaders ensure training, equipment, and personnel are ready; document and share SOPs; know your people and help them grow.
+- "People don't quit companies. They leave managers."
+
+---
+# Be Proud, But Never Satisfied
+
+- Make yourself, the unit, and everyone around you better with your skills and passion.
+- Strive for continuous improvement—"BE PROUD, BUT NEVER SATISFIED."
+
+---
 # Army Values & Expectations
 
 - The seven Army Values are the bedrock for our service: Loyalty, Duty, Respect, Selfless Service, Honor, Integrity, and Personal Courage.
