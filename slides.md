@@ -240,11 +240,6 @@ image: ./once-an-eagle.webp
 
 **Now, let's talk about what leadership means to you.**
 
----
-# Q&A / Discussion
-
-- Questions?
-- Open discussion
 
 ---
 class: flex flex-col justify-center items-center h-full text-2xl px-8
