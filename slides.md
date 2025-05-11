@@ -323,15 +323,6 @@ class: flex flex-col justify-center items-center h-full text-2xl px-8
 class: flex flex-col justify-center items-center h-full text-2xl px-8
 ---
 
-# Discussion: Mission First, People Always
-
-- Can you recall a time when you had to balance mission accomplishment with taking care of your people? What did you learn?
-- How do you foster unit esprit and pride while maintaining high standards?
-
----
-class: flex flex-col justify-center items-center h-full text-2xl px-8
----
-
 # Discussion: Leading by Example
 
 - What does "leading from the front" look like in your role? How do you model the behaviors you expect from others?
