@@ -49,6 +49,21 @@ layout: quote
 
 ---
 
+# Setting Expectations: The Power of Counseling
+
+Leadership is often made or broken by how well expectations are set from the start. In the Army, this is formalized through counseling sessions—especially the initial counseling.
+
+- **Initial counseling** is where leaders and subordinates discuss roles, standards, and what success looks like.
+- It's not just a checklist—done well, it's a conversation that builds trust, clarifies priorities, and opens the door for honest feedback.
+- Clear expectations help prevent confusion, frustration, and underperformance down the road.
+
+> "One of the greatest tools in a leader's kit bag is one-on-one counseling... When we don't provide subordinates with feedback, their professional growth is left up to chance."  
+> — [From the Green Notebook](https://fromthegreennotebook.com/2019/05/23/turning-counseling-into-a-conversation/)
+
+- The best counseling sessions are two-way conversations, not lectures. They invite reflection, feedback, and shared ownership of growth.
+
+---
+
 # About Me
 
 **Matt Wagner** 
@@ -213,7 +228,7 @@ by Anton Myrer
 
 **Quote**
 
-> "The surprise attack on the unready nation will be the hallmark of the next war. And if there aren't men of your caliber ready and able to take charge of things when that day comes, it will go very hard with us. Very hard indeed."
+> "The surprise attack on the unready nation will be the hallmark of the next war. And if there weren't men of your caliber ready and able to take charge of things when that day comes, it will go very hard with us. Very hard indeed."
 
 ---
 
