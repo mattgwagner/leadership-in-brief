@@ -180,16 +180,8 @@ Leadership is often made or broken by how well expectations are set from the sta
 # Physical Fitness & Readiness
 
 - Meet or exceed Army fitness standards; fitness is foundational to Soldiering.
-- Be prepared for APFT and maintain readiness for all missions.
+- Be prepared for ACFT/AFT and maintain readiness for all missions.
 - Motivate and support your peers in training and preparation.
-
----
-
-# Responsibility & Property Accountability
-
-- Accept responsibility for your actions and assigned property.
-- Use proper care and maintenance of equipment and supplies.
-- Ensure a safe and healthy work environment for all.
 
 ---
 
