@@ -205,6 +205,8 @@ by Orson Scott Card
 layout: two-cols
 ---
 
+<img src="/once-an-eagle.webp" alt="Once an Eagle cover" width="200" />
+
 **Once an Eagle**  
 by Anton Myrer
 
