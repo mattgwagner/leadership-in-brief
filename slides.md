@@ -35,7 +35,16 @@ Captain, Florida Army National Guard
 layout: quote
 ---
 
-> <span style="font-size:1.8em;"> Leadership is influencing people—by providing purpose, direction and motivation—while operating to accomplish the mission and improving the organization. Influencing means getting people to do what you want them to do. Through your words and example, you must communicate purpose, direction and motivation. Purpose gives Soldiers a reason to do things. You must earn their trust and they know from experience that you care about them. Soldiers want direction. They want to be given challenging tasks, training in how to accomplish them and the resources necessary to do them well. Motivation gives subordinates the will to do everything they can to accomplish a mission. Motivate your Soldiers by giving them missions that are challenging. Leaders motivate their Soldiers by the examples they set. The best leaders lead from the front. It is important to be where the action is.</span>
+> <span style="font-size:2.2em; font-weight:bold;">Leadership is influencing people—by providing purpose, direction and motivation—while operating to accomplish the mission and improving the organization.</span>
+
+> <span style="font-size:1.2em;">Purpose gives Soldiers a reason to do things. Direction gives them guidance. Motivation gives them the will to act.</span>
+
+---
+layout: quote
+---
+
+> <span style="font-size:1.1em;">Influencing means getting people to do what you want them to do. Through your words and example, you must communicate purpose, direction and motivation. You must earn their trust and they know from experience that you care about them. Soldiers want direction. They want to be given challenging tasks, training in how to accomplish them and the resources necessary to do them well. Motivation gives subordinates the will to do everything they can to accomplish a mission. Motivate your Soldiers by giving them missions that are challenging. Leaders motivate their Soldiers by the examples they set. The best leaders lead from the front. It is important to be where the action is.</span>
+
 > <span style="font-size:1.0em;">— Army Leadership Doctrine</span>
 
 ---
@@ -224,11 +233,19 @@ Published by the National Defense University Press
 - It explores the values, standards, and expectations that define military leadership and service.
 - Its lessons are relevant for anyone in a position of trust, responsibility, or influence—military or civilian.
 
-**Quotes**
+**Quote**
 
 > "As the nation's trusted professionals trained in the art and application of war, we are held to a higher standard—we are required to embody the values we have taken an oath to defend."
 
-<br />
+---
+layout: image-right
+
+image: /armed-forces-officer.jpg
+---
+
+**The Armed Forces Officer**
+
+**Quote**
 
 > "These sons and daughters are placed in the care and direction of commissioned leaders in trust that their units will enter battle as prepared as humanly possible and that they will be employed in the wisest manner to achieve the nation's purposes at least cost in blood and treasure. Development of the necessary knowledge and skills to live up to this trust requires a lifetime of individual study, training, and long practice by every officer."
 
@@ -250,7 +267,15 @@ by Robert A. Heinlein
 
 > "The Lieutenant was father to us and loved us and spoiled us and was nevertheless rather remote from us aboard ship - and even dirtside . . . unless we reached dirt via a drop."
 
-<br />
+---
+layout: image-left
+
+image: ./startship-troopers.jpg
+---
+
+**Starship Troopers**
+
+**Quote**
 
 > "The one thing - the only thing! - that can strike terror in the heart of a good platoon sergeant is to find that he's working for a boss who can't make up his mind."
 
