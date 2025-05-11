@@ -42,12 +42,15 @@ Your Credentials
 
 # About Me
 
-**Matt G. Wagner**  
-Father. Artilleryman. Software Leader.
+**Matt Wagner** 
 
-- 14+ years leading software teams and projects (CTO, Principal Architect, Tech Lead)
-- 14 years as a U.S. Army National Guard Officer (Field Artillery, MOS 13A)
-- Commanded units of 85–110+ Soldiers and led emergency response operations
+Captain, Florida Army National Guard
+
+- 16+ years leading software teams and projects (CTO, Principal Architect, Tech Lead)
+- 14+ years as a U.S. Army National Guard Officer (Field Artillery, MOS 13A)
+- Two command tours:
+    - Charlie Battery, 2nd BN, 116th Field Artiloery Regiment (M777)
+    - Headquarters Battery, 3rd BN, 116th Field Artillery Regiment
 - Leadership experience spans Fortune 50, startups, and military missions
 - Passionate about blending military discipline with tech innovation to build resilient, high-performing teams
 
