@@ -28,7 +28,7 @@ layout: cover
 
 ## A few notes from my foxhole
 
-Matt Wagner 
+**Matt Wagner**  
 Captain, Florida Army National Guard
 
 ---
@@ -51,14 +51,13 @@ layout: quote
 
 # About Me
 
-**Matt Wagner** 
-
+**Matt Wagner**  
 Captain, Florida Army National Guard
 
 - 16+ years leading software teams and projects (CTO, Principal Architect, Tech Lead)
 - 14+ years as a U.S. Army National Guard Officer (Field Artillery, MOS 13A)
 - Two command tours:
-    - Charlie Battery, 2nd BN, 116th Field Artiloery Regiment (M777)
+    - Charlie Battery, 2nd BN, 116th Field Artillery Regiment (M777)
     - Headquarters Battery, 3rd BN, 116th Field Artillery Regiment
 - Leadership experience spans Fortune 50, startups, and military missions
 - Passionate about blending military discipline with tech innovation to build resilient, high-performing teams
@@ -82,7 +81,7 @@ Leadership is often made or broken by how well expectations are set from the sta
 
 # My Initial Counseling Template
 
-I use an initial counseling template to set expectations with anyone who works for me—based on my experience, it covers what I believe is most important for success. This approach is useful not just in the Army, but for any manager or leader in the civilian world. It helps ensure everyone knows what matters, how to succeed, and how we'll work together.
+*I use an initial counseling template to set expectations with anyone who works for me—based on my experience, it covers what I believe is most important for success. This approach is useful not just in the Army, but for any manager or leader in the civilian world. It helps ensure everyone knows what matters, how to succeed, and how we'll work together.*
 
 ---
 
@@ -105,7 +104,7 @@ I use an initial counseling template to set expectations with anyone who works f
 
 - Know, understand, and enforce the standard—both Army regulations and local SOPs.
 - Be physically and mentally prepared; set the example in appearance and conduct.
-- "A man in authority who lets his subordinates get away with poor performance implies in doing so that they and their actions are of no significance..."
+- *"A man in authority who lets his subordinates get away with poor performance implies in doing so that they and their actions are of no significance..."*
 
 ---
 
@@ -127,7 +126,7 @@ I use an initial counseling template to set expectations with anyone who works f
 
 # Leadership Requirements Model
 
-- **Leads:** Be present and lead by example—"It is difficult if not impossible, to lead from the rear."
+- **Leads:** Be present and lead by example—*"It is difficult if not impossible, to lead from the rear."*
 - **Develops:** Develop other leaders; share lessons and nurture future team leaders.
 - **Achieves:** Mission comes first—results over excuses. Take care of Soldiers, but always accomplish the mission.
 
@@ -138,20 +137,20 @@ I use an initial counseling template to set expectations with anyone who works f
 - Counseling is ongoing: quarterly, before major events, and as needed for growth.
 - You are responsible for maintaining your support form and tracking your progress.
 - Leaders ensure training, equipment, and personnel are ready; document and share SOPs; know your people and help them grow.
-- "People don't quit companies. They leave managers."
+- *"People don't quit companies. They leave managers."*
 
 ---
 
 # Be Proud, But Never Satisfied
 
 - Make yourself, the unit, and everyone around you better with your skills and passion.
-- Strive for continuous improvement—"BE PROUD, BUT NEVER SATISFIED."
+- Strive for continuous improvement—**BE PROUD, BUT NEVER SATISFIED.**
 
 ---
 
 # Army Values & Expectations
 
-- The seven Army Values are the bedrock for our service: Loyalty, Duty, Respect, Selfless Service, Honor, Integrity, and Personal Courage.
+- The seven Army Values are the bedrock for our service: **Loyalty, Duty, Respect, Selfless Service, Honor, Integrity, and Personal Courage**.
 - Ethical behavior and moral conduct on and off duty must be above reproach.
 - Leaders set and maintain the ethical and moral climate—challenge yourself and your team to live these values.
 
@@ -173,7 +172,7 @@ I use an initial counseling template to set expectations with anyone who works f
 
 ---
 
-# Job Performance & Professional Growth
+# Job Performance & Growth
 
 - You will receive regular counseling on strengths and areas for improvement.
 - Strive for excellence, but honest mistakes are learning opportunities.
@@ -197,21 +196,13 @@ I use an initial counseling template to set expectations with anyone who works f
 
 ---
 
-# Leader Responsibilities
+# Core Principles of Leadership
 
-- Your leader will provide training, motivation, and support for your growth.
-- Expect honest feedback and guidance.
-- Leaders are here to help you succeed—use them as a resource.
-
----
-
-# Core Principles of Leadership (Universal)
-
-- Integrity
-- Accountability
-- Communication
-- Empathy
-- Vision
+- **Integrity**
+- **Accountability**
+- **Communication**
+- **Empathy**
+- **Vision**
 
 ---
 
