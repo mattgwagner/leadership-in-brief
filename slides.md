@@ -22,14 +22,17 @@ mdc: true
 # seoMeta:
 #  ogImage: https://cover.sli.dev
 layout: center
+zoom: 1.4
 ---
 
-# Welcome: Why Leadership?
+# Why Leadership?
 
 > "Leadership is the art of influencing others to accomplish the mission and improve the organization."
 
 **Why does leadership matter for you, right now, at OCS?**
 
+---
+zoom: 1.4
 ---
 
 # Who Am I?
@@ -44,6 +47,8 @@ Captain, Florida Army National Guard
 - Passionate about blending military discipline with tech innovation
 
 ---
+zoom: 1.5
+---
 
 # Leadership Philosophy
 
@@ -56,10 +61,14 @@ Captain, Florida Army National Guard
 - Motivation gives the will to succeed
 
 ---
+zoom: 1.4
+---
 
 # What Makes a Leader?
 
 > "You must earn trust. Soldiers want direction, challenge, and resources. The best leaders lead from the front."
+
+<br />
 
 - Influence through words and example
 - Build trust by showing you care
@@ -67,12 +76,15 @@ Captain, Florida Army National Guard
 
 ---
 layout: section
+zoom: 1.4
 ---
 
 # Setting the Stage
 
 **Before you lead, you must set expectations.**
 
+---
+zoom: 1.5
 ---
 
 # Setting Expectations: The Impact of Counseling
@@ -82,10 +94,14 @@ layout: section
 - Done right, it builds trust, clarifies priorities, and encourages feedback
 
 ---
+zoom: 1.6
+---
 
 # Counseling: A Leader's Toolbox
 
 > "One of the greatest tools in a leader's kit bag is one-on-one counseling... When we don't provide subordinates with feedback, their professional growth is left up to chance."
+
+<br />
 
 - The best counseling is a two-way conversation
 - Invite reflection, feedback, and shared ownership of growth
