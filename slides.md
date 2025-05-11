@@ -64,10 +64,12 @@ Captain, Florida Army National Guard
 - Challenge your team and set the example
 
 ---
+layout: section
+---
 
-# Transition: Setting the Stage
+# Setting the Stage
 
-**Before you can lead, you must set expectations.**
+**Before you lead, you must set expectations.**
 
 ---
 
@@ -142,8 +144,10 @@ Captain, Florida Army National Guard
 - Psychological Safety & Feedback Culture
 
 ---
+layout: section
+---
 
-# Transition: Learning from the Best
+# Learning from the Best
 
 **Great leaders are always learning. Here are a few books that shaped my views.**
 
@@ -235,8 +239,10 @@ image: ./once-an-eagle.webp
 > "The surprise attack on the unready nation will be the hallmark of the next war. And if there weren't men of your caliber ready and able to take charge of things when that day comes, it will go very hard with us. Very hard indeed."
 
 ---
+layout: section
+---
 
-# Transition: Your Turn
+# Your Turn
 
 **Now, let's talk about what leadership means to you.**
 
