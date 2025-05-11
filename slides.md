@@ -45,9 +45,11 @@ Captain, Florida Army National Guard
 
 ---
 
-# My Leadership Philosophy
+# Leadership Philosophy
 
 > "Leadership is influencing people—by providing purpose, direction and motivation—while operating to accomplish the mission and improving the organization."
+
+<br />
 
 - Purpose gives people a reason to act
 - Direction provides guidance
