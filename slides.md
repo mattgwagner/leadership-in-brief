@@ -123,16 +123,6 @@ Father. Artilleryman. Software Leader.
 <!-- List your top tips and practical advice -->
 
 ---
-
-# Quotes & Inspiration
-
-> "Insert your favorite leadership quote here."
-
-> "Another quote or personal mantra."
-
-<!-- Add more quotes or inspirations -->
-
----
 layout: two-cols
 ---
 
@@ -199,7 +189,7 @@ by Orson Scott Card
 
 **Insight**
 
-> "[Add your favorite quote or insight from Ender's Game here.]"
+> "In the moment when I truly understand my enemy, understand him well enough to defeat him, then in that very moment I also love him. I think it’s impossible to really understand somebody, what they want, what they believe, and not love them the way they love themselves. And then, in that very moment when I love them.... I destroy them."
 
 ---
 layout: two-cols
