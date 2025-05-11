@@ -293,7 +293,8 @@ by Anton Myrer
 - Open discussion
 
 ---
-
+class: flex flex-col justify-center items-center h-full text-2xl px-8
+---
 # Discussion: Setting Expectations
 
 - How do you ensure your expectations are clear to those you lead? Can you share an example where unclear expectations led to a challenge?
@@ -301,6 +302,7 @@ by Anton Myrer
 
 ---
 class: flex flex-col justify-center items-center h-full text-2xl px-8
+---
 # Discussion: Counseling & Feedback
 
 - What makes a counseling session (or feedback conversation) truly productive? How can leaders encourage honest, two-way dialogue?
@@ -308,6 +310,7 @@ class: flex flex-col justify-center items-center h-full text-2xl px-8
 
 ---
 class: flex flex-col justify-center items-center h-full text-2xl px-8
+---
 # Discussion: Army Values in Action
 
 - Which Army Value do you find most challenging to uphold in day-to-day leadership? Why?
@@ -315,6 +318,7 @@ class: flex flex-col justify-center items-center h-full text-2xl px-8
 
 ---
 class: flex flex-col justify-center items-center h-full text-2xl px-8
+---
 # Discussion: Mission First, People Always
 
 - Can you recall a time when you had to balance mission accomplishment with taking care of your people? What did you learn?
@@ -322,6 +326,7 @@ class: flex flex-col justify-center items-center h-full text-2xl px-8
 
 ---
 class: flex flex-col justify-center items-center h-full text-2xl px-8
+---
 # Discussion: Leading by Example
 
 - What does "leading from the front" look like in your role? How do you model the behaviors you expect from others?
@@ -329,6 +334,7 @@ class: flex flex-col justify-center items-center h-full text-2xl px-8
 
 ---
 class: flex flex-col justify-center items-center h-full text-2xl px-8
+---
 # Discussion: Developing Others
 
 - What strategies do you use to identify and develop future leaders in your team?
@@ -336,6 +342,7 @@ class: flex flex-col justify-center items-center h-full text-2xl px-8
 
 ---
 class: flex flex-col justify-center items-center h-full text-2xl px-8
+---
 # Discussion: Adaptability & Innovation
 
 - How do you encourage adaptability and creative problem-solving in a highly structured environment like the Army?
@@ -343,6 +350,7 @@ class: flex flex-col justify-center items-center h-full text-2xl px-8
 
 ---
 class: flex flex-col justify-center items-center h-full text-2xl px-8
+---
 # Discussion: Accountability & Responsibility
 
 - How do you create a culture of accountability without micromanaging?
