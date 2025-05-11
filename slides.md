@@ -136,7 +136,30 @@ Father. Artilleryman. Software Leader.
 layout: two-cols
 ---
 
-![](public/startship-troopers.jpg)
+**The Armed Forces Officer**  
+Published by the National Defense University Press  
+[Download PDF](https://ndupress.ndu.edu/Portals/68/Documents/Books/AFO/Armed-Forces-Officer.pdf)
+
+**Why it matters for leadership:**
+- This book is a foundational text for understanding the ethical, professional, and practical responsibilities of military officers.
+- It explores the values, standards, and expectations that define military leadership and service.
+- Its lessons are relevant for anyone in a position of trust, responsibility, or influence—military or civilian.
+
+::right::
+
+**Quotes**
+
+> "As the nation's trusted professionals trained in the art and application of war, we are held to a higher standard—we are required to embody the values we have taken an oath to defend."
+
+<br />
+
+> "These sons and daughters are placed in the care and direction of commissioned leaders in trust that their units will enter battle as prepared as humanly possible and that they will be employed in the wisest manner to achieve the nation's purposes at least cost in blood and treasure. Development of the necessary knowledge and skills to live up to this trust requires a lifetime of individual study, training, and long practice by every officer."
+
+---
+layout: two-cols
+---
+
+<img src="/public/startship-troopers.jpg" alt="Starship Troopers cover" width="200" />
 
 **Starship Troopers**  
 by Robert A. Heinlein
