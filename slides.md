@@ -233,9 +233,7 @@ Published by the National Defense University Press
 - It explores the values, standards, and expectations that define military leadership and service.
 - Its lessons are relevant for anyone in a position of trust, responsibility, or influence—military or civilian.
 
-**Quote**
 
-> "As the nation's trusted professionals trained in the art and application of war, we are held to a higher standard—we are required to embody the values we have taken an oath to defend."
 
 ---
 layout: image-right
@@ -245,7 +243,9 @@ image: /armed-forces-officer.jpg
 
 **The Armed Forces Officer**
 
-**Quote**
+> "As the nation's trusted professionals trained in the art and application of war, we are held to a higher standard—we are required to embody the values we have taken an oath to defend."
+
+<br />
 
 > "These sons and daughters are placed in the care and direction of commissioned leaders in trust that their units will enter battle as prepared as humanly possible and that they will be employed in the wisest manner to achieve the nation's purposes at least cost in blood and treasure. Development of the necessary knowledge and skills to live up to this trust requires a lifetime of individual study, training, and long practice by every officer."
 
@@ -263,9 +263,7 @@ by Robert A. Heinlein
 - Explores themes of duty, citizenship, sacrifice, and the responsibilities of leadership.
 - Offers a unique perspective on what it means to serve and to lead, both in and out of combat.
 
-**Quote**
 
-> "The Lieutenant was father to us and loved us and spoiled us and was nevertheless rather remote from us aboard ship - and even dirtside . . . unless we reached dirt via a drop."
 
 ---
 layout: image-left
@@ -275,7 +273,9 @@ image: ./startship-troopers.jpg
 
 **Starship Troopers**
 
-**Quote**
+> "The Lieutenant was father to us and loved us and spoiled us and was nevertheless rather remote from us aboard ship - and even dirtside . . . unless we reached dirt via a drop."
+
+<br />
 
 > "The one thing - the only thing! - that can strike terror in the heart of a good platoon sergeant is to find that he's working for a boss who can't make up his mind."
 
@@ -293,7 +293,14 @@ by Orson Scott Card
 - Explores the psychological and ethical challenges of command and leadership under extreme pressure.
 - Highlights the importance of adaptability, creative problem-solving, and understanding your team.
 
-**Insight**
+---
+layout: image-right
+
+image: ./enders-game.jpg
+---
+
+**Ender's Game**  
+by Orson Scott Card
 
 > "In the moment when I truly understand my enemy, understand him well enough to defeat him, then in that very moment I also love him. I think it's impossible to really understand somebody, what they want, what they believe, and not love them the way they love themselves. And then, in that very moment when I love them.... I destroy them."
 
@@ -311,7 +318,14 @@ by Anton Myrer
 - Explores the moral and ethical challenges of leadership in peace and war.
 - Highlights the importance of character, resilience, and readiness in those who lead.
 
-**Quote**
+---
+layout: image-left
+
+image: ./once-an-eagle.webp
+---
+
+**Once an Eagle**  
+by Anton Myrer
 
 > "The surprise attack on the unready nation will be the hallmark of the next war. And if there weren't men of your caliber ready and able to take charge of things when that day comes, it will go very hard with us. Very hard indeed."
 
