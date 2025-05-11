@@ -221,9 +221,3 @@ by Anton Myrer
 
 - Questions?
 - Open discussion
-
----
-
-# Thank You
-
-- Contact Info: <!-- Add your contact details or social links -->
