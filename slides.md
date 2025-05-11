@@ -135,7 +135,9 @@ Captain, Florida Army National Guard
 <!-- List your top tips and practical advice -->
 
 ---
-layout: two-cols
+layout: image-right
+
+image: /armed-forces-officer.jpg
 ---
 
 **The Armed Forces Officer**  
@@ -147,8 +149,6 @@ Published by the National Defense University Press
 - It explores the values, standards, and expectations that define military leadership and service.
 - Its lessons are relevant for anyone in a position of trust, responsibility, or influence—military or civilian.
 
-::right::
-
 **Quotes**
 
 > "As the nation's trusted professionals trained in the art and application of war, we are held to a higher standard—we are required to embody the values we have taken an oath to defend."
@@ -157,10 +157,10 @@ Published by the National Defense University Press
 
 > "These sons and daughters are placed in the care and direction of commissioned leaders in trust that their units will enter battle as prepared as humanly possible and that they will be employed in the wisest manner to achieve the nation's purposes at least cost in blood and treasure. Development of the necessary knowledge and skills to live up to this trust requires a lifetime of individual study, training, and long practice by every officer."
 
-<img src="/armed-forces-officer.jpg" width="100" />
-
 ---
-layout: two-cols
+layout: image-left
+
+image: ./startship-troopers.jpg
 ---
 
 **Starship Troopers**  
@@ -171,8 +171,6 @@ by Robert A. Heinlein
 - Explores themes of duty, citizenship, sacrifice, and the responsibilities of leadership.
 - Offers a unique perspective on what it means to serve and to lead, both in and out of combat.
 
-::right::
-
 **Quote**
 
 > "The Lieutenant was father to us and loved us and spoiled us and was nevertheless rather remote from us aboard ship - and even dirtside . . . unless we reached dirt via a drop."
@@ -181,13 +179,11 @@ by Robert A. Heinlein
 
 > "The one thing - the only thing! - that can strike terror in the heart of a good platoon sergeant is to find that he's working for a boss who can't make up his mind."
 
-<img src="/startship-troopers.jpg" alt="Starship Troopers cover" width="120" />
-
 ---
-layout: two-cols
----
+layout: image-right
 
-<img src="/enders-game.jpg" alt="Ender's Game cover" width="200" />
+image: ./enders-game.jpg
+---
 
 **Ender's Game**  
 by Orson Scott Card
@@ -197,32 +193,27 @@ by Orson Scott Card
 - Explores the psychological and ethical challenges of command and leadership under extreme pressure.
 - Highlights the importance of adaptability, creative problem-solving, and understanding your team.
 
-::right::
-
 **Insight**
 
 > "In the moment when I truly understand my enemy, understand him well enough to defeat him, then in that very moment I also love him. I think it's impossible to really understand somebody, what they want, what they believe, and not love them the way they love themselves. And then, in that very moment when I love them.... I destroy them."
 
 ---
-layout: two-cols
----
+layout: image-right
 
-<img src="/once-an-eagle.webp" alt="Once an Eagle cover" width="100" />
+image: ./once-an-eagle.webp
+---
 
 **Once an Eagle**  
 by Anton Myrer
 
 **Why it matters for leadership:**
 - Follows the long arc of a soldier's development, from youth through a lifetime of service and command.
-
-::right::
+- Explores the moral and ethical challenges of leadership in peace and war.
+- Highlights the importance of character, resilience, and readiness in those who lead.
 
 **Quote**
 
 > "The surprise attack on the unready nation will be the hallmark of the next war. And if there aren't men of your caliber ready and able to take charge of things when that day comes, it will go very hard with us. Very hard indeed."
-
-- Explores the moral and ethical challenges of leadership in peace and war.
-- Highlights the importance of character, resilience, and readiness in those who lead.
 
 ---
 
