@@ -40,12 +40,10 @@ layout: quote
 > <span style="font-size:0.9em;">— Army Leadership Doctrine</span>
 
 ---
+layout: quote
+---
 
-# Introduction
-
-- Why talk about leadership?
-- My background: US Army Officer & Tech Lead
-- What this talk will cover
+Why talk about leadership?
 
 ---
 
