@@ -187,20 +187,12 @@ layout: image-right
 image: /armed-forces-officer.jpg
 ---
 
-**The Armed Forces Officer**  
+# The Armed Forces Officer 
 Published by the National Defense University Press  
 [Download PDF](https://ndupress.ndu.edu/Portals/68/Documents/Books/AFO/Armed-Forces-Officer.pdf)
 
 - Foundational text for military leadership
 - Explores values, standards, and expectations
-- Relevant for anyone in a position of trust
-
----
-layout: image-right
-image: /armed-forces-officer.jpg
----
-
-**The Armed Forces Officer**
 
 > "As the nation's trusted professionals trained in the art and application of war, we are held to a higher standard—we are required to embody the values we have taken an oath to defend."
 
@@ -211,19 +203,12 @@ layout: image-left
 image: ./startship-troopers.jpg
 ---
 
-**Starship Troopers**  
+# Starship Troopers 
 by Robert A. Heinlein
 
 - Chronicles a soldier's evolution from recruit to officer
 - Explores duty, citizenship, sacrifice, and leadership
 - Unique perspective on service and command
-
----
-layout: image-left
-image: ./startship-troopers.jpg
----
-
-**Starship Troopers**
 
 > "The one thing - the only thing! - that can strike terror in the heart of a good platoon sergeant is to find that he's working for a boss who can't make up his mind."
 
@@ -232,19 +217,12 @@ layout: image-right
 image: ./enders-game.jpg
 ---
 
-**Ender's Game**  
+# Ender's Game
 by Orson Scott Card
 
 - Deep insight into tactics and strategy
 - Explores psychological and ethical challenges of command
 - Highlights adaptability and understanding your team
-
----
-layout: image-right
-image: ./enders-game.jpg
----
-
-**Ender's Game**
 
 > "In the moment when I truly understand my enemy... I also love him. And then, in that very moment when I love them... I destroy them."
 
@@ -253,19 +231,12 @@ layout: image-right
 image: ./once-an-eagle.webp
 ---
 
-**Once an Eagle**  
+# Once an Eagle
 by Anton Myrer
 
 - Follows a soldier's development over a lifetime
 - Explores moral and ethical challenges in peace and war
 - Highlights character, resilience, and readiness
-
----
-layout: image-left
-image: ./once-an-eagle.webp
----
-
-**Once an Eagle**
 
 > "The surprise attack on the unready nation will be the hallmark of the next war. And if there weren't men of your caliber ready and able to take charge of things when that day comes, it will go very hard with us. Very hard indeed."
 
