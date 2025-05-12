@@ -107,6 +107,8 @@ zoom: 1.6
 - Invite reflection, feedback, and shared ownership of growth
 
 ---
+zoom: 1.5
+---
 
 # My Initial Counseling Template
 
@@ -114,6 +116,8 @@ zoom: 1.6
 - Covers what matters most, criteria for success, and how we work together
 - Works in the Army and in civilian leadership
 
+---
+zoom: 1.5
 ---
 
 # Key Expectations for My Team
@@ -125,6 +129,8 @@ zoom: 1.6
 - **Competence:** Know your job and your team's strengths
 
 ---
+zoom: 1.5
+---
 
 # Leadership in Action: Requirements
 
@@ -133,6 +139,8 @@ zoom: 1.6
 - **Achieves:** Mission first, results over excuses
 
 ---
+zoom: 1.5
+---
 
 # Army Values: The Bedrock
 
@@ -140,6 +148,8 @@ zoom: 1.6
 - Ethical behavior on and off duty
 - Leaders set and maintain the ethical climate
 
+---
+zoom: 1.5
 ---
 
 # Core Principles of Leadership
@@ -150,6 +160,8 @@ zoom: 1.6
 - **Empathy**
 - **Vision**
 
+---
+zoom: 1.5
 ---
 
 # Leadership: Key Elements
@@ -163,6 +175,7 @@ zoom: 1.6
 
 ---
 layout: section
+zoom: 1.3
 ---
 
 # Learning from the Best
